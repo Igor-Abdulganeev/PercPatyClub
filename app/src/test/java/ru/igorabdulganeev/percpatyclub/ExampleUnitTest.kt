@@ -1,4 +1,4 @@
-package ru.igorabdulganeev.myapplication
+package ru.igorabdulganeev.percpatyclub
 
 import org.junit.Test
 
