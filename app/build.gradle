@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "ru.igorabdulganeev.myapplication"
+        applicationId "ru.igorabdulganeev.percpatyclub"
         minSdk 24
         targetSdk 31
         versionCode 1

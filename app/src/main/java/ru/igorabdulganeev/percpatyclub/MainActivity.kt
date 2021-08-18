@@ -1,4 +1,4 @@
-package ru.igorabdulganeev.myapplication
+package ru.igorabdulganeev.percpatyclub
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
