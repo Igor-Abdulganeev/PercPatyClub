@@ -87,3 +87,7 @@ lint/tmp/
 /gradle.properties
 /settings.gradle
 /gradle/wrapper/gradle-wrapper.properties
+/app/google-services.json
+/app/.gitignore
+/gradlew
+/gradlew.bat
