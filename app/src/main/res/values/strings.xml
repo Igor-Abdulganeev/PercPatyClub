@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">PercPatyClub</string>
+
+    // START main form visual
+    <string name="caption_github_button">Зайти как Github</string>
+    <string name="caption_google_button">Зайти как Google</string>
+    <string name="default_login_name">Пользователь не зарегистрирован</string>
+    <string name="error_login_name">Ошибка получения имени пользователя</string>
+    <string name="caption_phone_button">Зайти с телефона</string>
+    <string name="caption_sms_code_button">Ввод</string>
+    // END main form visual
+
+    // Start service information
+    <string name="id_token">70557693175-iqla4knnohukfgacnisnjp52q26v0do3.apps.googleusercontent.com</string>
+    // End service information
 </resources>
